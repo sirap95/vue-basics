@@ -1,4 +1,11 @@
-# complete-prj-01
+# VUE BASICS
+
+## Description
+This project use all the basics of VUE, including best practices for components names and folders. 
+
+It also show how to use Methods, Props, Inject, scoped styles and Vue directives.
+
+It is good to understand all the basics concept of Vue and start practice with it!
 
 ## Project setup
 ```
